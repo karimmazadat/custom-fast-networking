@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace = "app.network.cnetwork"
     compileSdk = 34
 
     defaultConfig {
