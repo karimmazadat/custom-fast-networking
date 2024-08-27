@@ -18,11 +18,12 @@
 package app.network.cnetwork.widget;
 
 import android.content.Context;
-import android.support.v7.widget.AppCompatImageView;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+
+import androidx.appcompat.widget.AppCompatImageView;
 
 import app.network.cnetwork.error.ANError;
 import app.network.cnetwork.internal.ANImageLoader;
